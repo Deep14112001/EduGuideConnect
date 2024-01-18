@@ -1,4 +1,4 @@
-# AcadEaze
+# EduGuideConnect
 
 
 Which is designed to manage and serve college people's students. This user-friendly platform is built using React, making it easily accessible to anyone with an internet connection.
@@ -17,7 +17,7 @@ You can find the live project on this link 👉
 
 ## Features
 
-AcadEaze offers a range of features to enhance Education:
+EduGuideConnect offers a range of features to enhance Education:
 
 
 
@@ -27,12 +27,12 @@ To get started with Blog App, follow these simple steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone git@github.com:anilpiparaiya/AcadEaze.git
+   git clone git@github.com:Deep14112001/EduGuideConnect.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd BlogEase
+   cd EduGuideConnect
    ```
 
 3. `npm run dev`
@@ -56,12 +56,12 @@ We welcome contributions to improve and expand NoteTakingApp! If you have sugges
 
 2. Clone this repository to your local machine:
    ```bash
-   git clone git@github.com:anilpiparaiya/AcadEaze.git
+   git clone git@github.com:Deep14112001/EduGuideConnect.git
    ```
 
 3. Navigate to the project folder:
    ```bash
-   cd AcadEaze
+   cd EduGuideConnect
    ```
 
 4. Run the app in the development mode:
@@ -92,7 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for using BlogEase app, your go-to website for everyday lifestyle needs. If you have any questions or feedback, please feel free to reach out to us at [anilkumarpiparaiya@gmail.com](mailto:anilkumarpiparaiya@gmail.com). Enjoy your journey to a better and more informed lifestyle!
+Thank you for using BlogEase app, your go-to website for everyday lifestyle needs. If you have any questions or feedback, please feel free to reach out to us at [deepeshchandra005@gmail.com](mailto:deepeshchandra005@gmail.com). Enjoy your journey to a better and more informed lifestyle!
 
 
 
