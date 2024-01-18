@@ -4,7 +4,7 @@
 Which is designed to manage and serve college people's students. This user-friendly platform is built using React, making it easily accessible to anyone with an internet connection.
 
 You can find the live project on this link 👉
-[https://acad-eaze.vercel.app/](https://acad-eaze.vercel.app/)
+[https://edu-guide-connect.vercel.app/](https://edu-guide-connect.vercel.app/)
 
 
 ## Table of Contents
